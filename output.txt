@@ -1,0 +1,31 @@
+Line No: 1		#include <iostream>	--->	Library
+Line No: 2		using namespace std	--->	Namespace
+Line No: 4		int main()	--->	Function Declaration
+Line No: 5		{	--->	Opening Bracket
+Line No: 6		string	--->	Datatype
+Line No: 6		course	--->	Variable
+Line No: 6		=	--->	Operator
+Line No: 6		"CS 224"	--->	String
+Line No: 7		string	--->	Datatype
+Line No: 7		title	--->	Variable
+Line No: 7		=	--->	Operator
+Line No: 7		"Project"	--->	String
+Line No: 9		if(course == "CS 224")	--->	If statement
+Line No: 10		{	--->	Opening Bracket
+Line No: 11		cout	--->	Reserved Word
+Line No: 11		<<	--->	Operator
+Line No: 11		"Instructor: Sir Sajid"	--->	String
+Line No: 12		}	--->	Closing Bracket
+Line No: 13		else if(title == "marks")	--->	If statement
+Line No: 14		{	--->	Opening Bracket
+Line No: 15		cout	--->	Reserved Word
+Line No: 15		<<	--->	Operator
+Line No: 15		"Full Marks"	--->	String
+Line No: 17		}	--->	Closing Bracket
+Line No: 18		else	--->	If statement
+Line No: 18		{	--->	Opening Bracket
+Line No: 19		cout	--->	Reserved Word
+Line No: 19		<<	--->	Operator
+Line No: 19		"Do Nothing"	--->	String
+Line No: 20		}	--->	Closing Bracket
+Line No: 22		}	--->	Closing Bracket
